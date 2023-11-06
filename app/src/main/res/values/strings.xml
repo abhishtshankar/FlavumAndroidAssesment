@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FlavumAndroidAssesment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="session_timing">%s ~ %s</string>
+    <string name="completed">Completed</string>
+    <string name="book">Schedule</string>
+    <string name="booked">Booked</string>
+    <string name="free">Free</string>
+    <string name="pending">Pending</string>
+</resources>
